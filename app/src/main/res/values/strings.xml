@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ePaper Beta</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="check_for_update">Check for update</string>
+    <string name="about">About</string>
+</resources>
